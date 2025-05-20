@@ -1,0 +1,16 @@
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:00:41] [WARNING]: [16704]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '16704' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:01:01] [WARNING]: [20034]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '20034' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:01:16] [WARNING]: [20075]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '20075' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:01:32] [WARNING]: [9057]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '9057' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:01:48] [WARNING]: [19825]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '19825' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:02:04] [WARNING]: [21061]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '21061' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:02:20] [WARNING]: [20454]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '20454' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:04:48] [WARNING]: [10736]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '10736' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:06:52] [WARNING]: [92236]; [produtos]; [Usuario Teste]; [DELETE]; [DELETOU REGISTRO: DELETE FROM produtos WHERE id_produto = '92236' ];
+[2804:274:ff28:6e61:c1d4:f0b1:f277:6192] [2025-04-26 10:07:55] [WARNING]: [2487]; [fornecedores]; [Usuario Teste]; [DELETE]; [DELETOU REGISTRO: DELETE FROM cotacao WHERE cod_empresa = '1' and cod_cotacao = '243222' ];
+[2804:5b8:611a:9500:f50c:a49e:dae1:7e8b] [2025-05-09 21:12:02] [WARNING]: 
+[2804:274:ff28:6e61:5034:8eff:ee1b:f1b8] [2025-05-14 20:02:14] [WARNING]: [4]; [usuarios]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM usuarios WHERE id_usuario = '4' ];
+[2804:274:ff28:6e61:5034:8eff:ee1b:f1b8] [2025-05-14 20:05:53] [WARNING]: [5]; [usuarios]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM usuarios WHERE id_usuario = '5' ];
+[2804:274:ff28:6e61:5034:8eff:ee1b:f1b8] [2025-05-14 20:56:07] [WARNING]: [22013]; [fornecedores]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM fornecedores WHERE id_fornecedor = '22013' ];
+[2804:274:ff28:6e61:787f:ec28:e048:4a0d] [2025-05-19 19:57:25] [WARNING]: [7]; [usuarios]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM usuarios WHERE id_usuario = '7' ];
+[2804:274:ff28:6e61:787f:ec28:e048:4a0d] [2025-05-19 20:31:03] [WARNING]: [8]; [usuarios]; [Admin]; [DELETE]; [DELETOU REGISTRO: DELETE FROM usuarios WHERE id_usuario = '8' ];
