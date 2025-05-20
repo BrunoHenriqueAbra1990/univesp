@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+body {
+    background-color: #435165;
+	margin:10%;
+}
+
+.contorno_reto{
+	border:#1d1d1d solid 1px; 
+	border-radius:0px;
+	margin-top: 1px;
+	padding: 2px !important;
+	margin-left: 0px;
+	background-color: white;
+}
+
+
+#titulo-formulario {
+	text-align: center !important;
+	background-color: #435165;
+	font-family: Verdana;
+	font-size: 30px !important;
+	font-weight: bold;
+	color: black;
+}
+
+#titulo-formulario b{
+	font-family: Verdana;
+	font-size: 30px !important;
+	font-weight: bold;
+	color: black;
+}
+
